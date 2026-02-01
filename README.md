@@ -32,38 +32,6 @@ See the plugin in action:
 
 ---
 
-## ✨ Features
-
-- 🗂 **Custom Gutenberg block** (“MV Card”)
-- 📝 Title, subtitle, and body content
-- 👉 Optional **Call To Action (CTA)**:
-  - Button
-  - Text link
-  - Text link with icon 🔗
-  - None
-- 🎨 **Accent color support**
-  - Per-card override
-  - Plugin-wide default fallback
-- 🧱 Clean, modern card styling
-- ⚡ No build step required
-- 🧩 Dynamic PHP rendering (always renders on the front end)
-
----
-
-## 🧠 How Accent Colors Work
-
-Each card can have its **own accent color**, or it can inherit the **global default**.
-
-Priority order:
-
-> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
-
-1. Per-card accent color (set in the block sidebar)
-2. Global default accent color (plugin setting)
-3. Fallback color: `#228B22` 🌿
-
----
-
 ## ⚙️ Plugin Settings
 
 After activating the plugin, you’ll find a settings page at:
@@ -71,11 +39,6 @@ After activating the plugin, you’ll find a settings page at:
 **WordPress Admin → Settings → MV Card Block**
 
 There you can:
-<<<<<<< HEAD
-
-=======
-
-> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
 
 - 🎨 Set the **global default accent color** used by all cards
 
@@ -97,22 +60,16 @@ Inside the Block Editor, the MV Card sidebar will also remind you where this set
 
 ### Option 1: Upload ZIP
 
-<<<<<<< HEAD
-
-=======
-
-> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
-
 1. WordPress Admin → Plugins → Add New → Upload Plugin
 2. Upload the `mv-card-block.zip`
 3. Activate
 
 ### Option 2: Manual
 
-<<<<<<< HEAD
+1. Copy the plugin folder to: `wp-content/plugins/`
+2. Go to the WordPress Admin panel
+3. Navigate to **Plugins** and find **MV Card Block**
+4. Click **Activate** to enable the plugin
 
-=======
+Your plugin is now installed and ready to use!
 
-> > > > > > > f1b8e1e098b705ab588e464264e18b37a1728a4f
-
-1. Copy the plugin folder to:
