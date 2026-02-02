@@ -72,3 +72,7 @@ Inside the Block Editor, the MV Card sidebar will also remind you where this set
 4. Click **Activate** to enable the plugin
 
 Your plugin is now installed and ready to use!
+
+## Acknowledgments
+
+This software was developed with assistance from AI code generation tools.
